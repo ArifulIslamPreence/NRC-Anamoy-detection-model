@@ -1,4 +1,4 @@
-# studentwinter2020
+
 
 1. change the parameters of psycopg2.connect() according to your local database configuration
 2. The backup file of database is uploaded called lanfeature.bak. 
